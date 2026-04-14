@@ -1,0 +1,94 @@
+{
+ "cells": [
+  {
+   "cell_type": "code",
+   "execution_count": 7,
+   "id": "9e2ecd4c-e346-4709-a71e-280a504c91f5",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdin",
+     "output_type": "stream",
+     "text": [
+      "enter the age 18\n"
+     ]
+    },
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "Adult\n"
+     ]
+    }
+   ],
+   "source": [
+    "\n",
+    "age=int(input(\"enter the age\"))\n",
+    "if(age==18):\n",
+    " print(\"Welcome to Python world\") \n",
+    "print('Welcome to Python world')"
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": 17,
+   "id": "2c2e00ba-73b3-490c-b745-d189ba2c8437",
+   "metadata": {},
+   "outputs": [
+    {
+     "name": "stdin",
+     "output_type": "stream",
+     "text": [
+      "enter the age 56\n"
+     ]
+    },
+    {
+     "name": "stdout",
+     "output_type": "stream",
+     "text": [
+      "elder\n"
+     ]
+    }
+   ],
+   "source": [
+    "age=int(input(\"enter the age\"))\n",
+    "if(age<18):\n",
+    "    print(\"Child\")\n",
+    "elif(age>=17 and age<=20):\n",
+    "    print(\"youth\")\n",
+    "else:\n",
+    "    print(\"elder\")\n",
+    "    "
+   ]
+  },
+  {
+   "cell_type": "code",
+   "execution_count": null,
+   "id": "2d0c2b9f-29b9-49f0-a7ec-5a92f22b5f88",
+   "metadata": {},
+   "outputs": [],
+   "source": []
+  }
+ ],
+ "metadata": {
+  "kernelspec": {
+   "display_name": "Python [conda env:base] *",
+   "language": "python",
+   "name": "conda-base-py"
+  },
+  "language_info": {
+   "codemirror_mode": {
+    "name": "ipython",
+    "version": 3
+   },
+   "file_extension": ".py",
+   "mimetype": "text/x-python",
+   "name": "python",
+   "nbconvert_exporter": "python",
+   "pygments_lexer": "ipython3",
+   "version": "3.13.9"
+  }
+ },
+ "nbformat": 4,
+ "nbformat_minor": 5
+}
