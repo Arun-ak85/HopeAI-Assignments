@@ -1,0 +1,11 @@
+EmployeeID,Age,Department,Salary,YearsAtCompany,JobSatisfaction,Overtime,WorkLifeBalance,PromotionLast3Years,Projects,LeaveDays,Performance,Resigned
+E001,25,IT,45000,2,2,Yes,2,No,6,12,Yet to calculate,Yet to calculate
+E002,30,HR,60000,5,4,No,4,Yes,3,5,,
+E003,28,Finance,55000,3,3,Yes,3,No,5,8,,
+E004,35,IT,85000,8,5,No,5,Yes,4,4,,
+E005,24,Sales,40000,1,1,Yes,1,No,7,15,,
+E006,32,Marketing,70000,6,4,No,4,Yes,4,6,,
+E007,29,IT,50000,3,2,Yes,2,No,6,10,,
+E008,41,Finance,95000,12,5,No,5,Yes,3,3,,
+E009,27,Sales,42000,2,2,Yes,2,No,6,11,,
+E010,38,HR,78000,9,4,No,4,Yes,4,4,,
